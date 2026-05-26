@@ -1,0 +1,6 @@
+{
+  "name": "Agent Performance Tracker",
+  "description": "A modern and professional Agent Performance Tracker dashboard system for monitoring, reporting, and evaluating daily, weekly, and monthly metrics from Excel spreadsheets with rule-based operational diagnostics and persistent coaching logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
